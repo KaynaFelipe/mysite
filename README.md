@@ -1,3 +1,4 @@
-<h1>Site de Investimentos</h1>
-<p>😎 Fique rico aqui!</p>
-<P>💫 Site mais completo de investimentos</>
+<h1>Site de Games</h1>
+<p>😎 Se divirta com amigos!</p>
+<P>💫 Site seguro</>
+<P>🎈 Variedade de games</p>
