@@ -1,4 +1,5 @@
-<h1>Site de Games</h1>
-<p>😎 Se divirta com amigos!</p>
-<P>💫 Site seguro</>
-<P>🎈 Variedade de games</p>
+<h1>Arte Now</h1>
+<h2>Seja criativo!</h2>
+<p>😎 Mostre seu talento.</p>
+<P>💫 Site seguro.</>
+<P>🎈 Absorva ideias de outros criadores.</p>
